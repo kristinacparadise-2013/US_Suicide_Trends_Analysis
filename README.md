@@ -81,6 +81,9 @@ Visual outputs include:
 * Correlation/Standard Deviation of top 20 states
 * Tableau heatmap showing suicide rate by state and year
 
+## * Interactive Tableau Dashboard
+Explore here: https://public.tableau.com/shared/7MM3RNW4Y?:display_count=n&:origin=viz_share_link 
+
 ## Key Findings
 
 Key insights from the analysis include:
